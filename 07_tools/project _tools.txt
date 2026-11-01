@@ -1,0 +1,8 @@
+Project Tools and Versions Used:
+
+1. HWiNFO64 (Version 8.54) - Used for real-time hardware monitoring, temperature tracking, and CSV data logging.
+2. Prime95 (Version 30.19) - Used for CPU and RAM stress testing (Torture Test).
+3. CrystalDiskMark (Version 9.0.3) - Used for NVMe SSD read/write benchmarking.
+4. WebGL Aquarium - Browser-based tool used for safe GPU stress testing.
+5. MS Excel - Used for data analysis and generating line/comparison charts.
+6. ChatGPT - Used for troubleshooting, understanding concepts, and report structuring.
